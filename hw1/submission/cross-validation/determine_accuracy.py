@@ -1,3 +1,7 @@
+# Thomas Monfre
+# Dartmouth College CS 74, Winter 2019
+# HW1: python script used to get the accuracy of a given combination of features. Uses KFold cross-validation.
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import KFold
@@ -131,13 +135,9 @@ X = np.absolute(X)
 # determine accuracy of output
 mean, sd, mean_t0, mean_f0, mean_t1, mean_f1 = get_accuracy_of_selection(X,y)
 print("MEAN ACCURACY: " + str(round(mean*100,2)) + "%")
-print("SD ACCURACY: " + str(round(sd*100,2)) + "%")
+print("SD: " + str(round(sd*100,2)) + "%")
 print("\n")
 print("TRUE  0: " + str(round(mean_t0*100,2)) + "%")
 print("FALSE 0: " + str(round(mean_f0*100,2)) + "%")
 print("TRUE  1: " + str(round(mean_t1*100,2)) + "%")
 print("FALSE 1: " + str(round(mean_f1*100,2)) + "%")
-
-
-## SUBMIT THIS ONE AS MAIN
-## SUBMIT OTHER FOR REFERENCE ABOUT CALCULATING ALL POSSIBLE FEATURES BUT MENTION THE RUN TIME IS BAD

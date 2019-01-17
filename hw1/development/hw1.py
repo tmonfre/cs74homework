@@ -1,8 +1,10 @@
+# Thomas Monfre
+# Dartmouth College CS 74, Winter 2019
+# HW1: Submission File. Running a Complement Naive Bayes classifier on training data, then predicting on testing data.
+
 import pandas as pd
 import numpy as np
 from sklearn.naive_bayes import ComplementNB
-
-#######################################################################################################################
 
 # create a complement naive bayes classifier from the filename provided
 def train(filename):
@@ -70,7 +72,7 @@ test_filename = "data/hw1_testset.csv"
 # create classifier
 classifier = train(train_filename)
 
-# prepare test data
+# prepare test data (call to shape_data removes unnecessary columns and adds calculated column)
 data = load_data(test_filename)
 X_test = shape_data(data)
 

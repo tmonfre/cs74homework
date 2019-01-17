@@ -1,3 +1,7 @@
+# Thomas Monfre
+# Dartmouth College CS 74, Winter 2019
+# HW1: python script used to brute force test the best combination of features to use
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import KFold
