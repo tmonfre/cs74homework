@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7532fc7a-9387-4f6c-9ac4-fecebcd2bd40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hw3/development/cross-validation/general_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/development/cross-validation/grid_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/development/cross-validation/svc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7532fc7a-9387-4f6c-9ac4-fecebcd2bd40" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw3/development/hw3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="15">
+              <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
               <folding>
                 <element signature="e#167#186#0" expanded="true" />
               </folding>
@@ -28,10 +22,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="-675">
               <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
               <folding>
                 <element signature="e#167#186#0" expanded="true" />
@@ -41,22 +35,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/general_test.py">
+        <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-end-line="130" />
+            <state relative-caret-position="422">
+              <caret line="129" column="32" selection-start-line="129" selection-end-line="130" />
               <folding>
                 <element signature="e#167#186#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/grid_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -305,12 +290,12 @@
     <frame x="17" y="32" width="1634" height="937" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22173367" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22173367" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49937186" visible="true" weight="0.3195266" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937186" visible="true" weight="0.3195266" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,23 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/svc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="213" column="41" lean-forward="true" selection-end-line="218" selection-end-column="69" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/grid_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw3/development/data/output.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
@@ -497,20 +465,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/general_test.py">
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/grid_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="129" column="32" lean-forward="true" selection-start-line="129" selection-end-line="130" />
+        <state relative-caret-position="-202">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/svc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="202" column="17" selection-start-line="202" selection-start-column="17" selection-end-line="202" selection-end-column="17" />
           <folding>
             <element signature="e#167#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/hw3.py">
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="422">
+          <caret line="129" column="32" selection-start-line="129" selection-end-line="130" />
           <folding>
             <element signature="e#167#186#0" expanded="true" />
           </folding>
@@ -519,8 +494,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="-675">
           <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
+          <folding>
+            <element signature="e#167#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/parameter_optimization_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/hw3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
           <folding>
             <element signature="e#167#186#0" expanded="true" />
           </folding>
