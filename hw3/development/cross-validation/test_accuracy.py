@@ -16,7 +16,7 @@ def load_data(filepath):
 
 # split feature vectors and class labels
 def separate_features_from_class(data):
-    X = data[:, :6] # feature vectors (remove feature 1)
+    X = data[:, :6] # feature vectors
     y = data[:, 6]  # class labels
     return X,y
 
