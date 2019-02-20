@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7532fc7a-9387-4f6c-9ac4-fecebcd2bd40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hw3/submission/cross-validation/optimize_feature_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/submission/cross-validation/parameter_optimization_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/submission/data/hw3_test_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/submission/data/hw3_training_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/submission/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/development/cross-validation/brute_force_feature_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/development/cross-validation/test_accuracy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/development/hw3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/development/hw3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/submission/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/cross-validation/brute_force_all_features.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/cross-validation/determine_accuracy.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/submission/cross-validation/test_accuracy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/data/hw1_testset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/data/hw1_trainingset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/data/output.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/submission/hw1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,41 +14,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw4/submission/hw4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw3/submission/hw3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#167#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw3/submission/cross-validation/optimize_feature_parameters.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw3/submission/cross-validation/test_accuracy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw3/submission/README.md">
+        <entry file="file://$PROJECT_DIR$/hw4/submission/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="387">
-                <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="256" selection-start-line="19" selection-start-column="256" selection-end-line="19" selection-end-column="256" />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw4/submission/cross-validation/test_accuracy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw4/submission/cross-validation/brute_force_feature_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1114" />
           </provider>
         </entry>
       </file>
@@ -101,20 +87,31 @@
         <option value="$PROJECT_DIR$/hw3/submission/README.md" />
         <option value="$PROJECT_DIR$/hw3/submission/cross-validation/test_accuracy.py" />
         <option value="$PROJECT_DIR$/hw3/submission/hw3.py" />
+        <option value="$PROJECT_DIR$/hw4/development/cross-validation/optimize_feature_parameters.py" />
+        <option value="$PROJECT_DIR$/hw4/development/cross-validation/determine_accuracy.py" />
+        <option value="$PROJECT_DIR$/hw4/development/setup_multiclass.py" />
+        <option value="$PROJECT_DIR$/hw4/development/cross-validation/setup_multiclass.py" />
+        <option value="$PROJECT_DIR$/hw4/development/hw4.py" />
+        <option value="$PROJECT_DIR$/hw4/development/cross-validation/test_accuracy.py" />
+        <option value="$PROJECT_DIR$/hw4/development/cross-validation/brute_force_feature_selection.py" />
+        <option value="$PROJECT_DIR$/hw4/development/README.md" />
+        <option value="$PROJECT_DIR$/hw4/submission/cross-validation/test_accuracy.py" />
+        <option value="$PROJECT_DIR$/hw4/submission/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="32" />
-    <option name="width" value="1634" />
-    <option name="height" value="937" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="966" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,14 +133,25 @@
             <path>
               <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs74" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
+              <item name="submission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs74" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
               <item name="submission" type="462c0819:PsiDirectoryNode" />
               <item name="cross-validation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+              <item name="hw4" type="462c0819:PsiDirectoryNode" />
               <item name="submission" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -151,7 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,12 +167,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw4/development/cross-validation" />
       <recent name="$PROJECT_DIR$/hw3/submission/cross-validation" />
       <recent name="$PROJECT_DIR$/hw3/submission" />
       <recent name="$PROJECT_DIR$/hw3/submission/data" />
       <recent name="$PROJECT_DIR$/hw3/development/cross-validation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw4/development/cross-validation" />
+      <recent name="$PROJECT_DIR$/hw4/development/cross-validation/svm_archive" />
       <recent name="$PROJECT_DIR$/hw3/development/cross-validation" />
       <recent name="$PROJECT_DIR$/hw3/development" />
       <recent name="$PROJECT_DIR$/hw3/development/cross-validation/archive" />
@@ -183,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw3 (1)">
-    <configuration name="compute_best_params" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hw4 (1)">
+    <configuration name="brute_force_feature_selection (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cs74" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3/development/cross-validation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4/submission/cross-validation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/development/cross-validation/grid_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/submission/cross-validation/brute_force_feature_selection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="general_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="brute_force_feature_selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cs74" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3/development/cross-validation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4/development/cross-validation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/development/cross-validation/brute_force_feature_selection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hw4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cs74" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3/submission" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4/submission" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/submission/hw3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/submission/hw4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="setup_multiclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cs74" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3/development" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4/development" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/development/hw3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/development/cross-validation/test_accuracy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw3/submission/cross-validation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw4/submission/cross-validation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3/submission/cross-validation/test_accuracy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw4/submission/cross-validation/test_accuracy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw3 (1)" />
+        <item itemvalue="Python.hw4 (1)" />
         <item itemvalue="Python.test_accuracy" />
-        <item itemvalue="Python.hw3" />
-        <item itemvalue="Python.general_test" />
-        <item itemvalue="Python.compute_best_params" />
+        <item itemvalue="Python.brute_force_feature_selection (1)" />
+        <item itemvalue="Python.brute_force_feature_selection" />
+        <item itemvalue="Python.setup_multiclass" />
       </list>
     </recent_temporary>
   </component>
@@ -313,15 +323,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="32" width="1634" height="937" extended-state="0" />
+    <frame x="2" y="24" width="1680" height="965" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22173367" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49937186" visible="true" weight="0.3195266" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937186" visible="true" weight="0.29438716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,13 +361,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/test_exam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/test_exam.py" />
     <entry file="file://$PROJECT_DIR$/hw3/development/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -368,43 +372,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/plot_rbf_parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/internet_thing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1005">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/np_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/plot_rbf_parameters.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/internet_thing.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/np_test.py" />
     <entry file="file://$PROJECT_DIR$/hw3/development/data/hw3_training_data.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/iris_tewst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/iris_tewst.py" />
     <entry file="file://$PROJECT_DIR$/../cs1/Card_SA/Deck.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -415,67 +392,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/one_vs_rest_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/linear-svc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="92" column="49" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="92" selection-end-column="49" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/nu-svc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="144" column="42" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/archive/brute_force_all_features.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="105" selection-start-line="105" selection-end-line="112" />
-          <folding>
-            <element signature="e#142#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/archive/determine_accuracy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="96" lean-forward="true" selection-end-line="139" selection-end-column="52" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/one_vs_rest_test.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/linear-svc.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/nu-svc.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/archive/brute_force_all_features.py" />
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/archive/determine_accuracy.py" />
     <entry file="file://$PROJECT_DIR$/hw2/hw2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1/development/hw1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw1/development/cross-validation/brute_force_all_features.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1/development/cross-validation/determine_accuracy.py">
@@ -508,22 +435,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3/development/data/hw3_test_data.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw1/development/data/hw1_testset.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3/development/data/output.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3/development/hw3.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -535,50 +462,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="142" column="98" selection-start-line="142" selection-start-column="98" selection-end-line="142" selection-end-column="98" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw3/submission/data/hw3_test_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="e#167#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/submission/data/output.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-29293" />
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3/submission/cross-validation/parameter_optimization_output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/submission/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="387">
-            <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/hw3/submission/data/output.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="12">
+          <caret line="2373" column="45" lean-forward="true" selection-start-line="2373" selection-start-column="45" selection-end-line="2373" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/submission/hw3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#167#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,13 +501,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw3/submission/hw3.py">
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/svm_archive/optimize_feature_parameters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="174">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/determine_accuracy.py" />
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/svm_archive/test_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="115" column="27" lean-forward="true" selection-end-line="132" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1/submission/cross-validation/determine_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="52" column="30" selection-start-line="52" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/test_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="65" />
           <folding>
             <element signature="e#167#186#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/development/cross-validation/optimize_feature_parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="142" column="98" selection-start-line="142" selection-start-column="98" selection-end-line="142" selection-end-column="98" />
+          <folding>
+            <element signature="e#167#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw1/development/cross-validation/brute_force_all_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="13" lean-forward="true" selection-end-line="216" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/svm_archive/svc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="61" column="63" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="61" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../personal/pine_beetle/query_local_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/data/CS74_HW4_training_set.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-1296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/hw4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="26" column="18" selection-start-line="26" selection-end-line="27" />
+          <folding>
+            <element signature="e#167#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/submission/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="24" lean-forward="true" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/test_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#137#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/development/cross-validation/brute_force_feature_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#142#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/submission/cross-validation/brute_force_feature_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/submission/cross-validation/test_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/submission/hw4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/submission/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="256" selection-start-line="19" selection-start-column="256" selection-end-line="19" selection-end-column="256" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

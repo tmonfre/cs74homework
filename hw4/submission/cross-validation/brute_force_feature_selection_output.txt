@@ -1,0 +1,262 @@
+/usr/local/bin/python3 /Users/thomasmonfre/PycharmProjects/cs74/hw4/development/cross-validation/brute_force_feature_selection.py
+
+testing features:
+[0, 0, 0, 0, 0, 0]
+
+
+testing features:
+[0, 0, 0, 0, 0, 1]
+
+
+testing features:
+[0, 0, 0, 0, 1, 0]
+
+
+testing features:
+[0, 0, 0, 0, 1, 1]
+
+
+testing features:
+[0, 0, 0, 1, 0, 0]
+
+
+testing features:
+[0, 0, 0, 1, 0, 1]
+
+
+testing features:
+[0, 0, 0, 1, 1, 0]
+
+
+testing features:
+[0, 0, 0, 1, 1, 1]
+
+
+testing features:
+[0, 0, 1, 0, 0, 0]
+
+
+testing features:
+[0, 0, 1, 0, 0, 1]
+
+
+testing features:
+[0, 0, 1, 0, 1, 0]
+
+
+testing features:
+[0, 0, 1, 0, 1, 1]
+
+
+testing features:
+[0, 0, 1, 1, 0, 0]
+
+
+testing features:
+[0, 0, 1, 1, 0, 1]
+
+
+testing features:
+[0, 0, 1, 1, 1, 0]
+
+
+testing features:
+[0, 0, 1, 1, 1, 1]
+
+
+testing features:
+[0, 1, 0, 0, 0, 0]
+
+
+testing features:
+[0, 1, 0, 0, 0, 1]
+
+
+testing features:
+[0, 1, 0, 0, 1, 0]
+
+
+testing features:
+[0, 1, 0, 0, 1, 1]
+
+
+testing features:
+[0, 1, 0, 1, 0, 0]
+
+
+testing features:
+[0, 1, 0, 1, 0, 1]
+
+
+testing features:
+[0, 1, 0, 1, 1, 0]
+
+
+testing features:
+[0, 1, 0, 1, 1, 1]
+
+
+testing features:
+[0, 1, 1, 0, 0, 0]
+
+
+testing features:
+[0, 1, 1, 0, 0, 1]
+
+
+testing features:
+[0, 1, 1, 0, 1, 0]
+
+
+testing features:
+[0, 1, 1, 0, 1, 1]
+
+
+testing features:
+[0, 1, 1, 1, 0, 0]
+
+
+testing features:
+[0, 1, 1, 1, 0, 1]
+
+
+testing features:
+[0, 1, 1, 1, 1, 0]
+
+
+testing features:
+[0, 1, 1, 1, 1, 1]
+
+
+testing features:
+[1, 0, 0, 0, 0, 0]
+
+
+testing features:
+[1, 0, 0, 0, 0, 1]
+
+
+testing features:
+[1, 0, 0, 0, 1, 0]
+
+
+testing features:
+[1, 0, 0, 0, 1, 1]
+
+
+testing features:
+[1, 0, 0, 1, 0, 0]
+
+
+testing features:
+[1, 0, 0, 1, 0, 1]
+
+
+testing features:
+[1, 0, 0, 1, 1, 0]
+
+
+testing features:
+[1, 0, 0, 1, 1, 1]
+
+
+testing features:
+[1, 0, 1, 0, 0, 0]
+
+
+testing features:
+[1, 0, 1, 0, 0, 1]
+
+
+testing features:
+[1, 0, 1, 0, 1, 0]
+
+
+testing features:
+[1, 0, 1, 0, 1, 1]
+
+
+testing features:
+[1, 0, 1, 1, 0, 0]
+
+
+testing features:
+[1, 0, 1, 1, 0, 1]
+
+
+testing features:
+[1, 0, 1, 1, 1, 0]
+
+
+testing features:
+[1, 0, 1, 1, 1, 1]
+
+
+testing features:
+[1, 1, 0, 0, 0, 0]
+
+
+testing features:
+[1, 1, 0, 0, 0, 1]
+
+
+testing features:
+[1, 1, 0, 0, 1, 0]
+
+
+testing features:
+[1, 1, 0, 0, 1, 1]
+
+
+testing features:
+[1, 1, 0, 1, 0, 0]
+
+
+testing features:
+[1, 1, 0, 1, 0, 1]
+
+
+testing features:
+[1, 1, 0, 1, 1, 0]
+
+
+testing features:
+[1, 1, 0, 1, 1, 1]
+
+
+testing features:
+[1, 1, 1, 0, 0, 0]
+
+
+testing features:
+[1, 1, 1, 0, 0, 1]
+
+
+testing features:
+[1, 1, 1, 0, 1, 0]
+
+
+testing features:
+[1, 1, 1, 0, 1, 1]
+
+
+testing features:
+[1, 1, 1, 1, 0, 0]
+
+
+testing features:
+[1, 1, 1, 1, 0, 1]
+
+
+testing features:
+[1, 1, 1, 1, 1, 0]
+
+
+testing features:
+[1, 1, 1, 1, 1, 1]
+
+
+CHOSEN FEATURES: f1, f2, f3, f4, f5, f6
+BEST ACCURACY: 74.48%
+
+Process finished with exit code 0
