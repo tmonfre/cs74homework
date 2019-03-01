@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7532fc7a-9387-4f6c-9ac4-fecebcd2bd40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hw4/development/cross-validation/brute_force_feature_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/development/cross-validation/test_accuracy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,23 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw4/submission/hw4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw4/submission/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="256" selection-start-line="19" selection-start-column="256" selection-end-line="19" selection-end-column="256" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="715">
+              <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -101,10 +87,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="966" />
+    <option name="x" value="69" />
+    <option name="y" value="30" />
+    <option name="width" value="1552" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -118,42 +104,6 @@
             <path>
               <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs74" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3" type="462c0819:PsiDirectoryNode" />
-              <item name="submission" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw4" type="462c0819:PsiDirectoryNode" />
-              <item name="submission" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw4" type="462c0819:PsiDirectoryNode" />
-              <item name="submission" type="462c0819:PsiDirectoryNode" />
-              <item name="cross-validation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cs74" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cs74" type="462c0819:PsiDirectoryNode" />
-              <item name="hw4" type="462c0819:PsiDirectoryNode" />
-              <item name="submission" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,15 +273,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="24" width="1680" height="965" extended-state="6" />
+    <frame x="2" y="23" width="1680" height="962" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937186" visible="true" weight="0.29438716" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937186" weight="0.2954023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -636,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw4/submission/hw4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw4/submission/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -650,6 +593,13 @@
             <caret line="19" column="256" selection-start-line="19" selection-start-column="256" selection-end-line="19" selection-end-column="256" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4/submission/hw4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
         </state>
       </provider>
     </entry>
